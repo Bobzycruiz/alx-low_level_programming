@@ -4,10 +4,10 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
+	 * main - Entry point
+	 *
+	 * Return: Always 0 (Success)
+	 */
 int main(void)
 {
 	int i, j, k, l;
@@ -44,7 +44,8 @@ int main(void)
 			}
 			else
 			{
-				l = 48; k++;
+				l = 48;
+				k++;
 			}
 		}
 	}
