@@ -35,8 +35,8 @@ int main(void)
 			}
 			else
 			{
-				j = 48;
 				i++;
+				j = 1 + i;
 			}
 		}
 
